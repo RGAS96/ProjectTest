@@ -28,3 +28,4 @@ C:\Documents\ProjectTest\obj\Debug\net8.0\refint\ProjectTest.dll
 C:\Documents\ProjectTest\obj\Debug\net8.0\ProjectTest.pdb
 C:\Documents\ProjectTest\obj\Debug\net8.0\ProjectTest.genruntimeconfig.cache
 C:\Documents\ProjectTest\obj\Debug\net8.0\ref\ProjectTest.dll
+C:\Documents\ProjectTest\obj\Debug\net8.0\ProjectTest.sourcelink.json
